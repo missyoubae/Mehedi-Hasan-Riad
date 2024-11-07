@@ -1,0 +1,10 @@
+#include <iostream>
+#include <conio.h>
+ // Include the iostream library for basic input and output
+
+int main() {
+    // Display a message to the user
+    std::cout << "Hello, World!" << std::endl;
+
+    getch(); // Indicate that the program ended successfully
+}
